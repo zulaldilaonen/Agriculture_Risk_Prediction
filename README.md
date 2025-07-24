@@ -4,7 +4,7 @@ Machine learning project that predicts agricultural risk levels using country-ba
 
 #Agriculture Risk Prediction – Graduation Project (W-Code 2.0)
 
-This project was developed as part of the **W-Code 2.0: Data Science and AI Bootcamp**, organized by **Kodluyoruz** and **Akbank Teknoloji**.  
+This project was developed as part of the **W-Code 2.0: Data Science and AI Bootcamp**, organized by **Kodluyoruz**, **Vehbi Koc Foundation** and **Ford Otosan**.  
 We built a machine learning model that analyzes country-based agricultural datasets and predicts potential risk factors that may affect agricultural production.
 
 ##Project Goal
